@@ -1,8 +1,8 @@
 ---
-layout: post
-date: 2016-01-15 07:59:00-0400
+layout: none
+date: 2025-02-01
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+💼 Joined [Zhipu AI](https://open.bigmodel.cn/) (GLM Team) as a Technical Intern

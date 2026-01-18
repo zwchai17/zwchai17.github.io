@@ -52,9 +52,9 @@ def get_scholar_citations() -> None:
                 and "last_updated" in existing_data["metadata"]
             ):
                 print(f"Last updated on: {existing_data['metadata']['last_updated']}")
-                if existing_data["metadata"]["last_updated"] == today:
-                    print("Citations data is already up-to-date. Skipping fetch.")
-                    return
+                # if existing_data["metadata"]["last_updated"] == today:
+                #     print("Citations data is already up-to-date. Skipping fetch.")
+                #     return
         except Exception as e:
             print(
                 f"Warning: Could not read existing citation data from {OUTPUT_FILE}: {e}. The file may be missing or corrupted."
@@ -67,6 +67,7 @@ def get_scholar_citations() -> None:
     try:
         author = scholarly.search_author_id(SCHOLAR_USER_ID)
         author_data = scholarly.fill(author)
+        citation_data["total_citations"] = author_data.get("citedby", 0)
     except Exception as e:
         print(
             f"Error fetching author data from Google Scholar for user ID '{SCHOLAR_USER_ID}': {e}. Please check your internet connection and Scholar user ID."
@@ -109,7 +110,12 @@ def get_scholar_citations() -> None:
             )
 
     # Compare new data with existing data
-    if existing_data and existing_data.get("papers") == citation_data["papers"]:
+    # Compare new data with existing data
+    if (
+        existing_data
+        and existing_data.get("papers") == citation_data["papers"]
+        and existing_data.get("total_citations") == citation_data.get("total_citations")
+    ):
         print("No changes in citation data. Skipping file update.")
         return
 
