@@ -21,13 +21,13 @@ strong {
 
 // Custom name fonts
 .name-english {
-  font-family: 'Playfair Display', Georgia, serif;
+  font-family: 'Playfair Display', Georgia, serif !important;
   font-weight: 600;
   letter-spacing: 0.02em;
 }
 
 .name-chinese {
-  font-family: 'Ma Shan Zheng', cursive;
+  font-family: 'Ma Shan Zheng', cursive !important;
   font-size: 1.1em;
   letter-spacing: 0.1em;
 }
