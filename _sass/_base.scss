@@ -19,6 +19,19 @@ strong {
   color: var(--global-text-color);
 }
 
+// Custom name fonts
+.name-english {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+.name-chinese {
+  font-family: 'Ma Shan Zheng', cursive;
+  font-size: 1.1em;
+  letter-spacing: 0.1em;
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }

@@ -5,8 +5,7 @@ layout: default
   <header class="post-header">
     <h1 class="post-title">
       {% if site.title == 'blank' %}
-        <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
-        <span style="cursor: pointer;" onclick="const cn = document.getElementById('chinese-name'); cn.style.display = cn.style.display === 'none' ? 'inline' : 'none';">{{ site.last_name }}</span>{% if site.chinese_name %} <span id="chinese-name" style="display: none;">({{ site.chinese_name }})</span>{% endif %}
+        <span class="name-english"><span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}</span>{% if site.chinese_name %} <span class="name-chinese">({{ site.chinese_name }})</span>{% endif %}
       {% else %}
         {{ site.title }}
       {% endif %}
