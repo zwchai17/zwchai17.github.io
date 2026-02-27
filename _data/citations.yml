@@ -1,16 +1,20 @@
 metadata:
-  last_updated: '2026-02-20'
+  last_updated: '2026-02-27'
 papers:
   m9a1Uu0AAAAJ:9yKSN-GCB0IC:
     citations: 28
     title: Towards Learning to Discover Money Laundering Sub-network in Massive Transaction Network
     year: '2023'
   m9a1Uu0AAAAJ:LkGwnXOMwfcC:
-    citations: 163
+    citations: 176
     title: 'Glm-4.5: Agentic, reasoning, and coding (arc) foundation models'
     year: '2025'
+  m9a1Uu0AAAAJ:Se3iqnhoufwC:
+    citations: 0
+    title: 'GLM-5: from Vibe Coding to Agentic Engineering'
+    year: '2026'
   m9a1Uu0AAAAJ:W7OEmFMy1HYC:
-    citations: 14
+    citations: 15
     title: 'An Expert is Worth One Token: Synergizing Multiple Expert LLMs as Generalist via Expert Token Routing'
     year: '2024'
   m9a1Uu0AAAAJ:WF5omc3nYNoC:
@@ -18,11 +22,11 @@ papers:
     title: 'BabelBench: An Omni Benchmark for Code-Driven Analysis of Multimodal and Multistructured Data'
     year: '2024'
   m9a1Uu0AAAAJ:Y0pCki6q_DkC:
-    citations: 120
+    citations: 122
     title: 'Infiagent-dabench: Evaluating agents on data analysis tasks'
     year: '2024'
   m9a1Uu0AAAAJ:YsMSGLbcyi4C:
-    citations: 102
+    citations: 103
     title: Can GNN be Good Adapter for LLMs?
     year: '2024'
   m9a1Uu0AAAAJ:_FxGoFyzp5QC:
@@ -30,7 +34,7 @@ papers:
     title: One graph model for cross-domain dynamic link prediction
     year: '2024'
   m9a1Uu0AAAAJ:d1gkVwhDpl0C:
-    citations: 145
+    citations: 147
     title: Can abnormality be detected by graph neural networks?
     year: '2022'
   m9a1Uu0AAAAJ:eQOLeE2rZwMC:
@@ -42,15 +46,15 @@ papers:
     title: 'Cypher-RI: Reinforcement Learning for Integrating Schema Selection into Cypher Generation'
     year: '2025'
   m9a1Uu0AAAAJ:u-x6o8ySG0sC:
-    citations: 51
+    citations: 52
     title: 'Time2Graph+: Bridging time series and graph representation learning via multiple attentions'
     year: '2021'
   m9a1Uu0AAAAJ:ufrVoPGSRksC:
-    citations: 4
+    citations: 5
     title: Enhancing cross-domain link prediction via evolution process modeling
     year: '2025'
   m9a1Uu0AAAAJ:zYLM7Y9cAGgC:
-    citations: 180
+    citations: 184
     title: 'Graphllm: Boosting graph reasoning ability of large language model'
     year: '2025'
-total_citations: 820
+total_citations: 845
