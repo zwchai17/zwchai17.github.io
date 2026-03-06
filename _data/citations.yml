@@ -1,18 +1,22 @@
 metadata:
-  last_updated: '2026-03-04'
+  last_updated: '2026-03-06'
 papers:
   m9a1Uu0AAAAJ:9yKSN-GCB0IC:
     citations: 28
     title: Towards Learning to Discover Money Laundering Sub-network in Massive Transaction Network
     year: '2023'
   m9a1Uu0AAAAJ:LkGwnXOMwfcC:
-    citations: 185
+    citations: 187
     title: 'Glm-4.5: Agentic, reasoning, and coding (arc) foundation models'
     year: '2025'
   m9a1Uu0AAAAJ:Se3iqnhoufwC:
     citations: 0
     title: 'GLM-5: from Vibe Coding to Agentic Engineering'
     year: '2026'
+  m9a1Uu0AAAAJ:UebtZRa9Y70C:
+    citations: 6
+    title: 'GraphLLM: boosting graph reasoning ability of large language model (2023)'
+    year: Unknown Year
   m9a1Uu0AAAAJ:W7OEmFMy1HYC:
     citations: 15
     title: 'An Expert is Worth One Token: Synergizing Multiple Expert LLMs as Generalist via Expert Token Routing'
@@ -34,7 +38,7 @@ papers:
     title: One graph model for cross-domain dynamic link prediction
     year: '2024'
   m9a1Uu0AAAAJ:d1gkVwhDpl0C:
-    citations: 147
+    citations: 150
     title: Can abnormality be detected by graph neural networks?
     year: '2022'
   m9a1Uu0AAAAJ:eQOLeE2rZwMC:
@@ -57,4 +61,4 @@ papers:
     citations: 186
     title: 'Graphllm: Boosting graph reasoning ability of large language model'
     year: '2025'
-total_citations: 860
+total_citations: 871
