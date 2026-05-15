@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-05-13'
+  last_updated: '2026-05-15'
 papers:
   m9a1Uu0AAAAJ:9yKSN-GCB0IC:
-    citations: 29
+    citations: 30
     title: Towards Learning to Discover Money Laundering Sub-network in Massive Transaction Network
     year: '2023'
   m9a1Uu0AAAAJ:LkGwnXOMwfcC:
-    citations: 249
+    citations: 257
     title: 'Glm-4.5: Agentic, reasoning, and coding (arc) foundation models'
     year: '2025'
   m9a1Uu0AAAAJ:Se3iqnhoufwC:
-    citations: 39
+    citations: 41
     title: 'Glm-5: from vibe coding to agentic engineering'
     year: '2026'
   m9a1Uu0AAAAJ:UebtZRa9Y70C:
@@ -26,11 +26,11 @@ papers:
     title: 'BabelBench: An Omni Benchmark for Code-Driven Analysis of Multimodal and Multistructured Data'
     year: '2024'
   m9a1Uu0AAAAJ:Y0pCki6q_DkC:
-    citations: 141
+    citations: 144
     title: 'Infiagent-dabench: Evaluating agents on data analysis tasks'
     year: '2024'
   m9a1Uu0AAAAJ:YsMSGLbcyi4C:
-    citations: 120
+    citations: 125
     title: Can GNN be Good Adapter for LLMs?
     year: '2024'
   m9a1Uu0AAAAJ:_FxGoFyzp5QC:
@@ -58,7 +58,7 @@ papers:
     title: Enhancing cross-domain link prediction via evolution process modeling
     year: '2025'
   m9a1Uu0AAAAJ:zYLM7Y9cAGgC:
-    citations: 202
+    citations: 203
     title: 'Graphllm: Boosting graph reasoning ability of large language model'
     year: '2025'
-total_citations: 1040
+total_citations: 1060
