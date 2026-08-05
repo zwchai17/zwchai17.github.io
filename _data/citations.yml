@@ -1,24 +1,20 @@
 metadata:
-  last_updated: '2026-07-24'
+  last_updated: '2026-08-05'
 papers:
   m9a1Uu0AAAAJ:9yKSN-GCB0IC:
-    citations: 32
+    citations: 33
     title: Towards Learning to Discover Money Laundering Sub-network in Massive Transaction Network
     year: '2023'
   m9a1Uu0AAAAJ:LkGwnXOMwfcC:
-    citations: 311
+    citations: 322
     title: 'Glm-4.5: Agentic, reasoning, and coding (arc) foundation models'
     year: '2025'
   m9a1Uu0AAAAJ:Se3iqnhoufwC:
-    citations: 32
+    citations: 77
     title: 'Glm-5: from vibe coding to agentic engineering'
     year: '2026'
-  m9a1Uu0AAAAJ:UebtZRa9Y70C:
-    citations: 5
-    title: 'GraphLLM: boosting graph reasoning ability of large language model (2023)'
-    year: Unknown Year
   m9a1Uu0AAAAJ:W7OEmFMy1HYC:
-    citations: 18
+    citations: 19
     title: 'An Expert is Worth One Token: Synergizing Multiple Expert LLMs as Generalist via Expert Token Routing'
     year: '2024'
   m9a1Uu0AAAAJ:WF5omc3nYNoC:
@@ -26,11 +22,11 @@ papers:
     title: 'BabelBench: An Omni Benchmark for Code-Driven Analysis of Multimodal and Multistructured Data'
     year: '2024'
   m9a1Uu0AAAAJ:Y0pCki6q_DkC:
-    citations: 163
+    citations: 170
     title: 'Infiagent-dabench: Evaluating agents on data analysis tasks'
     year: '2024'
   m9a1Uu0AAAAJ:YsMSGLbcyi4C:
-    citations: 145
+    citations: 149
     title: Can GNN be Good Adapter for LLMs?
     year: '2024'
   m9a1Uu0AAAAJ:_FxGoFyzp5QC:
@@ -38,19 +34,23 @@ papers:
     title: One graph model for cross-domain dynamic link prediction
     year: '2024'
   m9a1Uu0AAAAJ:d1gkVwhDpl0C:
-    citations: 174
+    citations: 173
     title: Can abnormality be detected by graph neural networks?
     year: '2022'
   m9a1Uu0AAAAJ:eQOLeE2rZwMC:
     citations: 12
     title: Gnns as adapters for llms on text-attributed graphs
     year: '2024'
+  m9a1Uu0AAAAJ:hqOjcs7Dif8C:
+    citations: 2
+    title: 'Kimi K3: Open Frontier Intelligence'
+    year: '2026'
   m9a1Uu0AAAAJ:roLk4NBRz8UC:
-    citations: 1
+    citations: 2
     title: 'Cypher-RI: Reinforcement Learning for Integrating Schema Selection into Cypher Generation'
     year: '2026'
   m9a1Uu0AAAAJ:u-x6o8ySG0sC:
-    citations: 56
+    citations: 57
     title: 'Time2Graph+: Bridging time series and graph representation learning via multiple attentions'
     year: '2021'
   m9a1Uu0AAAAJ:ufrVoPGSRksC:
@@ -58,7 +58,7 @@ papers:
     title: Enhancing cross-domain link prediction via evolution process modeling
     year: '2025'
   m9a1Uu0AAAAJ:zYLM7Y9cAGgC:
-    citations: 230
+    citations: 234
     title: 'Graphllm: Boosting graph reasoning ability of large language model'
     year: '2025'
-total_citations: 1190
+total_citations: 1261
