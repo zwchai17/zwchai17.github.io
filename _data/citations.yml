@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-08-05'
+  last_updated: '2026-08-17'
 papers:
   m9a1Uu0AAAAJ:9yKSN-GCB0IC:
-    citations: 33
+    citations: 34
     title: Towards Learning to Discover Money Laundering Sub-network in Massive Transaction Network
     year: '2023'
   m9a1Uu0AAAAJ:LkGwnXOMwfcC:
-    citations: 322
+    citations: 335
     title: 'Glm-4.5: Agentic, reasoning, and coding (arc) foundation models'
     year: '2025'
   m9a1Uu0AAAAJ:Se3iqnhoufwC:
-    citations: 77
+    citations: 91
     title: 'Glm-5: from vibe coding to agentic engineering'
     year: '2026'
   m9a1Uu0AAAAJ:W7OEmFMy1HYC:
@@ -22,11 +22,11 @@ papers:
     title: 'BabelBench: An Omni Benchmark for Code-Driven Analysis of Multimodal and Multistructured Data'
     year: '2024'
   m9a1Uu0AAAAJ:Y0pCki6q_DkC:
-    citations: 170
+    citations: 175
     title: 'Infiagent-dabench: Evaluating agents on data analysis tasks'
     year: '2024'
   m9a1Uu0AAAAJ:YsMSGLbcyi4C:
-    citations: 149
+    citations: 152
     title: Can GNN be Good Adapter for LLMs?
     year: '2024'
   m9a1Uu0AAAAJ:_FxGoFyzp5QC:
@@ -34,7 +34,7 @@ papers:
     title: One graph model for cross-domain dynamic link prediction
     year: '2024'
   m9a1Uu0AAAAJ:d1gkVwhDpl0C:
-    citations: 173
+    citations: 175
     title: Can abnormality be detected by graph neural networks?
     year: '2022'
   m9a1Uu0AAAAJ:eQOLeE2rZwMC:
@@ -42,8 +42,8 @@ papers:
     title: Gnns as adapters for llms on text-attributed graphs
     year: '2024'
   m9a1Uu0AAAAJ:hqOjcs7Dif8C:
-    citations: 2
-    title: 'Kimi K3: Open Frontier Intelligence'
+    citations: 11
+    title: 'Kimi k3: Open frontier intelligence'
     year: '2026'
   m9a1Uu0AAAAJ:roLk4NBRz8UC:
     citations: 2
@@ -58,7 +58,7 @@ papers:
     title: Enhancing cross-domain link prediction via evolution process modeling
     year: '2025'
   m9a1Uu0AAAAJ:zYLM7Y9cAGgC:
-    citations: 234
+    citations: 237
     title: 'Graphllm: Boosting graph reasoning ability of large language model'
     year: '2025'
-total_citations: 1261
+total_citations: 1311
