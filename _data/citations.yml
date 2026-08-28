@@ -1,16 +1,20 @@
 metadata:
-  last_updated: '2026-08-17'
+  last_updated: '2026-08-28'
 papers:
+  m9a1Uu0AAAAJ:0EnyYjriUFMC:
+    citations: 378
+    title: 'Kimi k2. 5: Visual agentic intelligence'
+    year: '2026'
   m9a1Uu0AAAAJ:9yKSN-GCB0IC:
     citations: 34
     title: Towards Learning to Discover Money Laundering Sub-network in Massive Transaction Network
     year: '2023'
   m9a1Uu0AAAAJ:LkGwnXOMwfcC:
-    citations: 335
+    citations: 344
     title: 'Glm-4.5: Agentic, reasoning, and coding (arc) foundation models'
     year: '2025'
   m9a1Uu0AAAAJ:Se3iqnhoufwC:
-    citations: 91
+    citations: 94
     title: 'Glm-5: from vibe coding to agentic engineering'
     year: '2026'
   m9a1Uu0AAAAJ:W7OEmFMy1HYC:
@@ -22,11 +26,11 @@ papers:
     title: 'BabelBench: An Omni Benchmark for Code-Driven Analysis of Multimodal and Multistructured Data'
     year: '2024'
   m9a1Uu0AAAAJ:Y0pCki6q_DkC:
-    citations: 175
+    citations: 178
     title: 'Infiagent-dabench: Evaluating agents on data analysis tasks'
     year: '2024'
   m9a1Uu0AAAAJ:YsMSGLbcyi4C:
-    citations: 152
+    citations: 153
     title: Can GNN be Good Adapter for LLMs?
     year: '2024'
   m9a1Uu0AAAAJ:_FxGoFyzp5QC:
@@ -34,7 +38,7 @@ papers:
     title: One graph model for cross-domain dynamic link prediction
     year: '2024'
   m9a1Uu0AAAAJ:d1gkVwhDpl0C:
-    citations: 175
+    citations: 179
     title: Can abnormality be detected by graph neural networks?
     year: '2022'
   m9a1Uu0AAAAJ:eQOLeE2rZwMC:
@@ -42,7 +46,7 @@ papers:
     title: Gnns as adapters for llms on text-attributed graphs
     year: '2024'
   m9a1Uu0AAAAJ:hqOjcs7Dif8C:
-    citations: 11
+    citations: 17
     title: 'Kimi k3: Open frontier intelligence'
     year: '2026'
   m9a1Uu0AAAAJ:roLk4NBRz8UC:
@@ -54,11 +58,11 @@ papers:
     title: 'Time2Graph+: Bridging time series and graph representation learning via multiple attentions'
     year: '2021'
   m9a1Uu0AAAAJ:ufrVoPGSRksC:
-    citations: 8
+    citations: 9
     title: Enhancing cross-domain link prediction via evolution process modeling
     year: '2025'
   m9a1Uu0AAAAJ:zYLM7Y9cAGgC:
-    citations: 237
+    citations: 238
     title: 'Graphllm: Boosting graph reasoning ability of large language model'
     year: '2025'
-total_citations: 1311
+total_citations: 1717
